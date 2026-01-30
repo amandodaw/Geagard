@@ -1,5 +1,5 @@
 
- -[Inicio](Geagard.md)
+ -[Inicio](README.md)
 
  # Personajes jugadores
 

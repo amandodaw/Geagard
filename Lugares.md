@@ -1,5 +1,5 @@
 
- - [Inicio](Geagard.md)
+ - [Inicio](README.md)
 
  # Lugares de Geagard
 
